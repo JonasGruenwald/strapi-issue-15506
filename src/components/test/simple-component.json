@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_test_simple_components",
+  "info": {
+    "displayName": "SimpleComponent"
+  },
+  "options": {},
+  "attributes": {
+    "Text": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_test_relation_components",
+  "info": {
+    "displayName": "RelationComponent"
+  },
+  "options": {},
+  "attributes": {
+    "CollectionEntry": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::test-collection.test-collection"
+    },
+    "Note": {
+      "type": "string"
+    }
+  }
+}
